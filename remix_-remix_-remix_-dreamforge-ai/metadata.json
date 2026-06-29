@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: DreamForge AI",
+  "description": "Transform any goal into a clear, actionable roadmap from beginner to master, complete with milestone tracking, an AI mentor, and daily progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
